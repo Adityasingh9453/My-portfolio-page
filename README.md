@@ -1,2 +1,2 @@
 # My-portfolio-page
-this is frontend page of My portfolio webpage .
+This is frontend page of My portfolio webpage .
